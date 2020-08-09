@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![](file:///Users/min/Desktop/COVID-19/clustering/plots of cases in state/Alabama.jepg)
+![Alabama](https://user-images.githubusercontent.com/67207788/89728882-871d8200-d9fe-11ea-9dbc-d24e2051d88d.jpg)
 
 
 ```markdown
