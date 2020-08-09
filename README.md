@@ -10,6 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ![Alabama](https://user-images.githubusercontent.com/67207788/89728882-871d8200-d9fe-11ea-9dbc-d24e2051d88d.jpg)
 
 
+[John Birge 2020.pdf](https://github.com/minx16/Covid-19/files/5046935/John.Birge.2020.pdf)
+
+
 ```markdown
 Syntax highlighted code block
 
