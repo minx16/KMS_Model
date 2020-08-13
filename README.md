@@ -2,7 +2,7 @@
 
 Below is the daily cases and cumulative cases of COVID-19 in state level. The blue is the historical data. The red is our predictions.
 
-We can see from our prediciton, in the next 30 days, the spread of coronavirus is still going on. It is likely that there will be another peak in some states, for example, California, Hawaii, Illinois, Indiana, Kentucky, Nebraska, Oregon, Pennsylvania and Vermont. There is a decreasing trend in state like Alabama, Arizona, Florida, Louisiana, Mississippi, Missouri, Nevada. The daily cases level will keep in low level in New Jersey, New York, 
+We can see from our prediciton, in the next 30 days, the spread of coronavirus is still going on. It is likely that there will be another peak in some states, for example, California, Hawaii, Illinois, Indiana, Kentucky, Nebraska, Oregon, Pennsylvania and Vermont. There is a decreasing trend in state like Alabama, Arizona, Florida, Louisiana, Mississippi, Missouri, Nevada. The daily cases level will keep in low level in New Jersey and New York.
 
 ![Alabama](https://user-images.githubusercontent.com/67207788/90089121-9ea28680-dcee-11ea-8580-9e3c33fbba82.png)
 ![Alaska](https://user-images.githubusercontent.com/67207788/90089123-9f3b1d00-dcee-11ea-8ac5-28939d25c9e6.png)
