@@ -12,7 +12,7 @@ library(LICORS)
 ## State level cases
 
 #Population
-setwd("/Users/min/Desktop/COVID-19/clustering/weather and social")
+setwd("download data")
 census_in_states <- read.csv("census in states.csv", header = T, stringsAsFactors = FALSE, sep = ",") %>%
   transmute(fips = as.character(STATE),
             population = as.numeric(POPESTIMATE2019)) %>%
@@ -297,13 +297,13 @@ for (j in 1:length(testing_day_list)){
   current_day <- testing_day_list[j]
 
   if (current_day <= as.Date("2020-07-11")){
-    file_ihme <- "/Users/min/Desktop/COVID-19/clustering/HIME/2020_07_04"
+    file_ihme <- "download data/HIME/2020_07_04"
   } else if (current_day <= as.Date("2020-07-18")){
-    file_ihme <- "/Users/min/Desktop/COVID-19/clustering/HIME/2020_07_11"
+    file_ihme <- "download data/HIME/2020_07_11"
   } else if (current_day <= as.Date("2020-07-26")){
-    file_ihme <- "/Users/min/Desktop/COVID-19/clustering/HIME/2020_07_18"
+    file_ihme <- "download data/HIME/2020_07_18"
   } else {
-    file_ihme <- "/Users/min/Desktop/COVID-19/clustering/HIME/2020_07_26"
+    file_ihme <- "download data/HIME/2020_07_26"
   }
 
   setwd(file_ihme)
@@ -333,7 +333,7 @@ state_fips <- state_covid %>%
   filter(date == current_day) %>%
   select(state, fips)
 
-setwd("/Users/min/Desktop/COVID-19/clustering/weather and social")
+setwd("download data")
 test_error_alamos <- list()
 for (j in 1:length(testing_day_list)){
   print(j)
@@ -463,7 +463,7 @@ predict_errors <- bind_rows(test_error) %>%
   mutate(ape_baseline = ape_baseline/51) %>%
   mutate(ape_shaman = ape_shaman/51) %>%
   mutate(ape_alamos = ape_alamos/51) %>%
-  mutate(ape_national = (cases_predict - new_cases)/new_cases)
+  mutate(ape_national = (cases_predict - new_cases)/new_cases) %>%
   mutate(ape_IHME_national = (cases_predict_ihme - new_cases)/new_cases) %>%
   mutate(ape_baseline_national = (cases_predict_baseline - new_cases)/new_cases) %>%
   mutate(ape_shaman_national = (cases_predict_shaman - new_cases)/new_cases) %>%
