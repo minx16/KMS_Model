@@ -9,104 +9,54 @@ The solid blue line is historical daily cases.
 The dash blue line is daily cases predictions. The daily cases are smoothed as 7-day average. 
 The solid red line is historical cumulative cases. The dash red line is cumulative cases predictions.
 
-![Alabama](https://user-images.githubusercontent.com/67207788/92319200-101adf80-efe4-11ea-96b5-d8b0815b8d5b.png)
-![Alaska](https://user-images.githubusercontent.com/67207788/92319201-114c0c80-efe4-11ea-89b1-f54a1b0c2d2e.png)
-![Arizona](https://user-images.githubusercontent.com/67207788/92319202-11e4a300-efe4-11ea-8095-6a641ecfbec2.png)
-![Arkansas](https://user-images.githubusercontent.com/67207788/92319203-127d3980-efe4-11ea-9604-2fd68242a47e.png)
-![California](https://user-images.githubusercontent.com/67207788/92319204-127d3980-efe4-11ea-9df0-e139e517a400.png)
-![Colorado](https://user-images.githubusercontent.com/67207788/92319205-1315d000-efe4-11ea-9509-8eb6dda0658f.png)
-![Connecticut](https://user-images.githubusercontent.com/67207788/92319206-1315d000-efe4-11ea-806f-16da301e4696.png)
-![Delaware](https://user-images.githubusercontent.com/67207788/92319207-1315d000-efe4-11ea-8159-5723e82abd70.png)
-![District of Columbia](https://user-images.githubusercontent.com/67207788/92319208-13ae6680-efe4-11ea-8cf5-f2ae8a6314fa.png)
-![Florida](https://user-images.githubusercontent.com/67207788/92319209-13ae6680-efe4-11ea-9b5b-cc29ea415384.png)
-![Georgia](https://user-images.githubusercontent.com/67207788/92319210-13ae6680-efe4-11ea-853b-a68697060fdf.png)
-![Hawaii](https://user-images.githubusercontent.com/67207788/92319211-1446fd00-efe4-11ea-8ccb-98200035d75b.png)
-![Idaho](https://user-images.githubusercontent.com/67207788/92319213-1446fd00-efe4-11ea-976d-4bb0c3c48de5.png)
-![Illinois](https://user-images.githubusercontent.com/67207788/92319214-1446fd00-efe4-11ea-835d-a5e91a150bc2.png)
-![Indiana](https://user-images.githubusercontent.com/67207788/92319216-14df9380-efe4-11ea-8b55-9c224adb5264.png)
-![Iowa](https://user-images.githubusercontent.com/67207788/92319217-14df9380-efe4-11ea-9233-425bbb51db18.png)
-![Kansas](https://user-images.githubusercontent.com/67207788/92319218-14df9380-efe4-11ea-9810-b3756983cfb0.png)
-![Kentucky](https://user-images.githubusercontent.com/67207788/92319219-14df9380-efe4-11ea-861b-e36cb6f3201e.png)
-![Louisiana](https://user-images.githubusercontent.com/67207788/92319221-15782a00-efe4-11ea-9b05-d717638df4b2.png)
-![Maine](https://user-images.githubusercontent.com/67207788/92319222-15782a00-efe4-11ea-8cf5-08eeb9d3cb5d.png)
-![Maryland](https://user-images.githubusercontent.com/67207788/92319223-15782a00-efe4-11ea-82b6-13dadf47f902.png)
-![Massachusetts](https://user-images.githubusercontent.com/67207788/92319224-1610c080-efe4-11ea-8f64-7eb3f8e57a8b.png)
-![Michigan](https://user-images.githubusercontent.com/67207788/92319225-1610c080-efe4-11ea-8875-551f44ce126a.png)
-![Minnesota](https://user-images.githubusercontent.com/67207788/92319226-1610c080-efe4-11ea-9925-3677b6aec456.png)
-![Mississippi](https://user-images.githubusercontent.com/67207788/92319227-1610c080-efe4-11ea-97b5-73e4c2331665.png)
-![Missouri](https://user-images.githubusercontent.com/67207788/92319228-16a95700-efe4-11ea-9f97-278c49ad5f1b.png)
-![Montana](https://user-images.githubusercontent.com/67207788/92319229-16a95700-efe4-11ea-9603-325343ef1d1b.png)
-![Nebraska](https://user-images.githubusercontent.com/67207788/92319230-16a95700-efe4-11ea-8230-a33cd6f39f83.png)
-![Nevada](https://user-images.githubusercontent.com/67207788/92319231-1741ed80-efe4-11ea-9550-f2d6ccce8ad4.png)
-![New Hampshire](https://user-images.githubusercontent.com/67207788/92319232-1741ed80-efe4-11ea-90c2-3a79e6261e18.png)
-![New Jersey](https://user-images.githubusercontent.com/67207788/92319233-1741ed80-efe4-11ea-8758-b216af081da0.png)
-![New Mexico](https://user-images.githubusercontent.com/67207788/92319234-1741ed80-efe4-11ea-8549-d1dc38383afe.png)
-![New York](https://user-images.githubusercontent.com/67207788/92319238-190bb100-efe4-11ea-9f0c-5959e13a8af2.png)
-![North Carolina](https://user-images.githubusercontent.com/67207788/92319239-190bb100-efe4-11ea-8152-c347947f02b6.png)
-![North Dakota](https://user-images.githubusercontent.com/67207788/92319240-19a44780-efe4-11ea-91be-046e0a10db8e.png)
-![Ohio](https://user-images.githubusercontent.com/67207788/92319241-19a44780-efe4-11ea-8567-09fc4adb2dd9.png)
-![Oklahoma](https://user-images.githubusercontent.com/67207788/92319242-19a44780-efe4-11ea-8c94-54636244b694.png)
-![Oregon](https://user-images.githubusercontent.com/67207788/92319243-1a3cde00-efe4-11ea-90df-585428e82066.png)
-![Pennsylvania](https://user-images.githubusercontent.com/67207788/92319244-1a3cde00-efe4-11ea-8380-3277bd3b488f.png)
-![Rhode Island](https://user-images.githubusercontent.com/67207788/92319245-1a3cde00-efe4-11ea-87ee-e012bda363f8.png)
-![South Carolina](https://user-images.githubusercontent.com/67207788/92319246-1ad57480-efe4-11ea-98fa-1d26ecf0df64.png)
-![South Dakota](https://user-images.githubusercontent.com/67207788/92319247-1ad57480-efe4-11ea-99c4-763d21c1656d.png)
-![Tennessee](https://user-images.githubusercontent.com/67207788/92319248-1ad57480-efe4-11ea-9da4-a344472e34ee.png)
-![Texas](https://user-images.githubusercontent.com/67207788/92319250-1b6e0b00-efe4-11ea-97cf-1e6f6871d101.png)
-![Utah](https://user-images.githubusercontent.com/67207788/92319251-1b6e0b00-efe4-11ea-9fec-eec2ccefcc15.png)
-![Vermont](https://user-images.githubusercontent.com/67207788/92319252-1b6e0b00-efe4-11ea-8732-3a41bdeeff48.png)
-![Virginia](https://user-images.githubusercontent.com/67207788/92319253-1b6e0b00-efe4-11ea-92b1-223d1aff8e41.png)
-![Washington](https://user-images.githubusercontent.com/67207788/92319254-1c06a180-efe4-11ea-919f-4fddb2ad1576.png)
-![West Virginia](https://user-images.githubusercontent.com/67207788/92319255-1c06a180-efe4-11ea-9fc1-b2705a45b3dc.png)
-![Wisconsin](https://user-images.githubusercontent.com/67207788/92319256-1c9f3800-efe4-11ea-829f-657419235574.png)
-![Wyoming](https://user-images.githubusercontent.com/67207788/92319257-1c9f3800-efe4-11ea-9fc4-551cb63f02e7.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Alabama](https://user-images.githubusercontent.com/67207788/93020157-a4b7ab80-f5a9-11ea-8379-8d678bfbb7ce.png)
+![Alaska](https://user-images.githubusercontent.com/67207788/93020160-a84b3280-f5a9-11ea-8c1e-466bfe6bb0b5.png)
+![Arizona](https://user-images.githubusercontent.com/67207788/93020161-aaad8c80-f5a9-11ea-877c-e4dad0ea6bec.png)
+![Arkansas](https://user-images.githubusercontent.com/67207788/93020162-ad0fe680-f5a9-11ea-8bd2-6c3e9f5ec49c.png)
+![California](https://user-images.githubusercontent.com/67207788/93020164-aed9aa00-f5a9-11ea-8344-eb60ef62fff1.png)
+![Colorado](https://user-images.githubusercontent.com/67207788/93020166-b0a36d80-f5a9-11ea-950f-7e69ba80f666.png)
+![Connecticut](https://user-images.githubusercontent.com/67207788/93020168-b305c780-f5a9-11ea-8dbc-6e69d5022c6b.png)
+![Delaware](https://user-images.githubusercontent.com/67207788/93020170-b436f480-f5a9-11ea-9221-32ae2b1f747c.png)
+![District of Columbia](https://user-images.githubusercontent.com/67207788/93020172-b5682180-f5a9-11ea-8fc2-a1f8a3c5f5a7.png)
+![Florida](https://user-images.githubusercontent.com/67207788/93020173-b600b800-f5a9-11ea-9ff8-9f78918375ff.png)
+![Georgia](https://user-images.githubusercontent.com/67207788/93020175-b731e500-f5a9-11ea-879a-91897040d2e5.png)
+![Hawaii](https://user-images.githubusercontent.com/67207788/93020176-b7ca7b80-f5a9-11ea-9752-ea7b64807391.png)
+![Idaho](https://user-images.githubusercontent.com/67207788/93020178-b8631200-f5a9-11ea-85fd-2c6bde92e5e2.png)
+![Illinois](https://user-images.githubusercontent.com/67207788/93020179-b8fba880-f5a9-11ea-8cef-a939807c215e.png)
+![Indiana](https://user-images.githubusercontent.com/67207788/93020180-bbf69900-f5a9-11ea-8e8f-1606a2ac2b9f.png)
+![Iowa](https://user-images.githubusercontent.com/67207788/93020182-bd27c600-f5a9-11ea-8850-2c0cec1c4463.png)
+![Kansas](https://user-images.githubusercontent.com/67207788/93020183-be58f300-f5a9-11ea-8df7-59bf0350761b.png)
+![Kentucky](https://user-images.githubusercontent.com/67207788/93020184-bef18980-f5a9-11ea-99bb-9e229957e196.png)
+![Louisiana](https://user-images.githubusercontent.com/67207788/93020186-c0bb4d00-f5a9-11ea-9878-28240fecbae3.png)
+![Maine](https://user-images.githubusercontent.com/67207788/93020188-c1ec7a00-f5a9-11ea-97a3-518dc75bdeb1.png)
+![Maryland](https://user-images.githubusercontent.com/67207788/93020191-c31da700-f5a9-11ea-8566-970142e34346.png)
+![Massachusetts](https://user-images.githubusercontent.com/67207788/93020192-c4e76a80-f5a9-11ea-9e8f-5dc10d02bebd.png)
+![Michigan](https://user-images.githubusercontent.com/67207788/93020193-c6189780-f5a9-11ea-92a2-2dedf54f73e5.png)
+![Minnesota](https://user-images.githubusercontent.com/67207788/93020195-c7e25b00-f5a9-11ea-9876-5d44c83c5046.png)
+![Mississippi](https://user-images.githubusercontent.com/67207788/93020196-c87af180-f5a9-11ea-9c66-3adfa95f773f.png)
+![Missouri](https://user-images.githubusercontent.com/67207788/93020197-c9138800-f5a9-11ea-9348-b8fdbecb774a.png)
+![Montana](https://user-images.githubusercontent.com/67207788/93020199-ca44b500-f5a9-11ea-8556-1efd96199bdb.png)
+![Nebraska](https://user-images.githubusercontent.com/67207788/93020200-cb75e200-f5a9-11ea-808d-9dde27829ee7.png)
+![Nevada](https://user-images.githubusercontent.com/67207788/93020201-cc0e7880-f5a9-11ea-8148-8bb8d9e33963.png)
+![New Hampshire](https://user-images.githubusercontent.com/67207788/93020202-cd3fa580-f5a9-11ea-90f7-db17f624e3e3.png)
+![New Jersey](https://user-images.githubusercontent.com/67207788/93020203-cdd83c00-f5a9-11ea-9b16-8b85d5c371f8.png)
+![New Mexico](https://user-images.githubusercontent.com/67207788/93020205-cf096900-f5a9-11ea-829c-0617e3db6dc2.png)
+![New York](https://user-images.githubusercontent.com/67207788/93020206-cfa1ff80-f5a9-11ea-83ff-05e99d0ccdda.png)
+![North Carolina](https://user-images.githubusercontent.com/67207788/93020208-d0d32c80-f5a9-11ea-84cc-601d079fae59.png)
+![North Dakota](https://user-images.githubusercontent.com/67207788/93020211-d2045980-f5a9-11ea-8326-9db7147b7c58.png)
+![Ohio](https://user-images.githubusercontent.com/67207788/93020213-d3358680-f5a9-11ea-80b7-3c177168acc2.png)
+![Oklahoma](https://user-images.githubusercontent.com/67207788/93020215-d466b380-f5a9-11ea-92e0-6946d2f28e6a.png)
+![Oregon](https://user-images.githubusercontent.com/67207788/93020218-d9c3fe00-f5a9-11ea-8516-0990e6acb018.png)
+![Pennsylvania](https://user-images.githubusercontent.com/67207788/93020221-ddf01b80-f5a9-11ea-82c7-a6a119c4aa2d.png)
+![Rhode Island](https://user-images.githubusercontent.com/67207788/93020222-dfb9df00-f5a9-11ea-9b6a-0a3dac0f06cb.png)
+![South Carolina](https://user-images.githubusercontent.com/67207788/93020225-e183a280-f5a9-11ea-9ab6-c0a7a1e7fe5c.png)
+![South Dakota](https://user-images.githubusercontent.com/67207788/93020234-e47e9300-f5a9-11ea-8fbb-73ef822c1984.png)
+![Tennessee](https://user-images.githubusercontent.com/67207788/93020238-e7798380-f5a9-11ea-8731-c5cf2f06322c.png)
+![Texas](https://user-images.githubusercontent.com/67207788/93020239-e8aab080-f5a9-11ea-9e70-8cf6c64a6092.png)
+![Utah](https://user-images.githubusercontent.com/67207788/93020240-e9dbdd80-f5a9-11ea-89d6-554543798e5f.png)
+![Vermont](https://user-images.githubusercontent.com/67207788/93020243-eb0d0a80-f5a9-11ea-87bb-c636cbfae6b5.png)
+![Virginia](https://user-images.githubusercontent.com/67207788/93020245-eba5a100-f5a9-11ea-9710-29748e2fa2b0.png)
+![Washington](https://user-images.githubusercontent.com/67207788/93020247-ed6f6480-f5a9-11ea-9787-de427b8cadfe.png)
+![West Virginia](https://user-images.githubusercontent.com/67207788/93020249-efd1be80-f5a9-11ea-80fa-3ec05696fd10.png)
+![Wisconsin](https://user-images.githubusercontent.com/67207788/93020256-f8c29000-f5a9-11ea-9204-e897c8181b14.png)
+![Wyoming](https://user-images.githubusercontent.com/67207788/93020259-f9f3bd00-f5a9-11ea-9112-dc1396ebd7ef.png)
