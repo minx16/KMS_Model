@@ -5,6 +5,9 @@ To answer these questions, having a reliable prediction tool to forecast future 
 proposes a clustering based algorithm to predict the state-level COVID-19 cases in the United States, using the state-level population and historical COVID-19 case data as input. Our algorithm has two novel features. First, we treat a (state, date) pair as one observation in the COVID-19 case data, summarize features from the data, and classify similar observations using k-means clustering. Second, we use the similarity between the observations in the same cluster to capture the similarity of future trajectory of cases. Thus, when predicting the number of cases in a state in the future, we first map the pair of this state and the current date to a corresponding cluster, then take the observable future of older observations in this cluster as potential samples. Using mean absolute percentage error (MAPE) as the performance metric, we demonstrate that our algorithm provides reliable results for prediction periods ranging from 1 to 20 days. Our algorithm achieves the highest 7-day prediction accuracy both at the state and the national levels compared to three existing models and one intuitive baseline model. Our results indicate that in the next 20 days, states may be in starkly different situations if there are no interventions. While some states are getting better, the cases in others are still trending upward.
 
 Below are prediction results in state-level updated on September 5, 2020.
+The solid blue line is historical daily cases.
+The dash blue line is daily cases predictions. The daily cases are smoothed as 7-day average. 
+The solid red line is historical cumulative cases. The dash red line is cumulative cases predictions.
 
 ![Alabama](https://user-images.githubusercontent.com/67207788/92319200-101adf80-efe4-11ea-96b5-d8b0815b8d5b.png)
 ![Alaska](https://user-images.githubusercontent.com/67207788/92319201-114c0c80-efe4-11ea-89b1-f54a1b0c2d2e.png)
